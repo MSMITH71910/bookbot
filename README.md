@@ -1,5 +1,7 @@
 # Bookbot
 
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
 Bookbot is a Python command-line application that analyzes text files (e.g., books) and provides useful statistics such as word count, unique word count, and the most common words.
 
 ## Features
